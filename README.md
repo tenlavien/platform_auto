@@ -1,1 +1,2 @@
 # platform_auto
+Init
